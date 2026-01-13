@@ -1,0 +1,17 @@
+{
+  "FY22": {
+    "consolidated_revenue_million": 76000,
+    "consolidated_net_loss_million": -38000,
+    "total_assets_million": 95000
+  },
+  "FY23": {
+    "consolidated_revenue_million": 82646,
+    "consolidated_net_loss_million": -41793,
+    "total_assets_million": 112806
+  },
+  "FY24": {
+    "consolidated_revenue_million": 112474,
+    "consolidated_net_loss_million": -23502,
+    "total_assets_million": 105294
+  }
+}
